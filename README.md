@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Taha Naguez and I'm an AI Engineer</h2>
+<h2 align="center">Hi 👋! I'm Taha Naguez, an AI Engineer student</h2>
 
 ###
 
