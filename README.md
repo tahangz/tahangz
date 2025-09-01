@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="100" src="https://cdn.dribbble.com/userupload/32690165/file/original-91b920c5af3417e456bc46004300944d.gif"  />
+<img height="100" src="https://cdn.dribbble.com/userupload/32690165/file/original-91b920c5af3417e456bc46004300944d.gif"  />
 
 ###
 
