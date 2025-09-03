@@ -1,10 +1,4 @@
-<h2 align="center">Hi 👋! I'm Taha Naguez, an AI Engineer student</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahangz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="165" alt="languages graph"  />
-</div>
+<h2 align="center">I'm Taha Naguez, an AI Engineer student</h2>
 
 ###
 
