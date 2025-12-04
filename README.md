@@ -1,8 +1,5 @@
 <h2 align="center">I'm Taha Naguez, an AI/ML Engineer student</h2>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TahaNaguez&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 
 ###
