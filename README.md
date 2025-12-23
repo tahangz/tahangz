@@ -1,4 +1,4 @@
-<h2 align="center">I'm Taha Naguez, an AI/ML Engineer Student</h2>
+<h2 align="center">I'm Taha Naguez, a final year AI/ML Engineer Student</h2>
 
 
 
